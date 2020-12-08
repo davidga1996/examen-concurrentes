@@ -1,0 +1,22 @@
+david se conecto.
+juan se conecto.
+david envio.
+	hola, hay alguien?
+juan envio.
+	hola david
+	estoy yo
+david envio.
+	hola juan, tienes la tarea de sistemas concurrentes?
+juan envio.
+	si
+	ya la termine
+	y tu?
+david envio.
+	no, me la podrias pasar?
+juan envio.
+	claro
+	deJuan
+david envio.
+	gracias
+	te mandare este archivo como agradecimiento
+	deDavid
